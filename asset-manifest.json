@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecomart/static/css/main.1bdd7dc0.css",
+    "main.js": "/Ecomart/static/js/main.2637e9f0.js",
+    "index.html": "/Ecomart/index.html",
+    "main.1bdd7dc0.css.map": "/Ecomart/static/css/main.1bdd7dc0.css.map",
+    "main.2637e9f0.js.map": "/Ecomart/static/js/main.2637e9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bdd7dc0.css",
+    "static/js/main.2637e9f0.js"
+  ]
+}
