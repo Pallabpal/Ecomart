@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ecomart/static/css/main.1bdd7dc0.css",
-    "main.js": "/Ecomart/static/js/main.2637e9f0.js",
+    "main.css": "/Ecomart/static/css/main.168e6212.css",
+    "main.js": "/Ecomart/static/js/main.62d853ec.js",
     "index.html": "/Ecomart/index.html",
-    "main.1bdd7dc0.css.map": "/Ecomart/static/css/main.1bdd7dc0.css.map",
-    "main.2637e9f0.js.map": "/Ecomart/static/js/main.2637e9f0.js.map"
+    "main.168e6212.css.map": "/Ecomart/static/css/main.168e6212.css.map",
+    "main.62d853ec.js.map": "/Ecomart/static/js/main.62d853ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bdd7dc0.css",
-    "static/js/main.2637e9f0.js"
+    "static/css/main.168e6212.css",
+    "static/js/main.62d853ec.js"
   ]
 }
