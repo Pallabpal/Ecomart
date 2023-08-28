@@ -35,7 +35,11 @@ function App() {
   ],
   {
     // Specify the base URL with the repository name
+<<<<<<< HEAD
     basename: '/Ecomart'
+=======
+    basename: '/EcomartReact'
+>>>>>>> e39a83a (Initial commit)
   }
   );
 
